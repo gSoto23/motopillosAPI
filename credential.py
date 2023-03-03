@@ -1,0 +1,5 @@
+dbuser = "dbmasteruser"
+dbpass = "FJ:}{J1xAZri7qt4<D&MD<I,#p4N#y5,"
+dbhost = "ls-6c09cb456f5de296b61746ceb0ecf4eae7705ec2.cictvrhwpymo.us-east-1.rds.amazonaws.com"
+dbport = "3306"
+dbname = "motopillos"
